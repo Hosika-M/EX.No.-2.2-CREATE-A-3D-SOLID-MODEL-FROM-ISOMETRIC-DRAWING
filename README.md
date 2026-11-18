@@ -107,7 +107,13 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 Output:
 
-[Hosika_26013981-2.pdf](https://github.com/user-attachments/files/35019396/Hosika_26013981-2.pdf)
+
+<img width="1916" height="1015" alt="Screenshot 2026-11-18 152926" src="https://github.com/user-attachments/assets/3edd1370-432b-424a-a9c2-14ad81024f0b" />
+
+
+<img width="1012" height="713" alt="Screenshot 2026-11-18 153007" src="https://github.com/user-attachments/assets/fb39cf73-cbfc-4595-8db5-0335b7d74d2e" />
+
+
 
 
 ## RESULT: 
